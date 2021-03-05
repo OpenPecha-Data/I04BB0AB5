@@ -1,15 +1,16 @@
-id: opecha:P007952
+id: P007952
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG4428
   title: དབུ་མའི་དོགས་གཅོད་རྟེན་འབྱུང་སྙིང་པོ་
-  volume:
+  author: ''
+  volumes:
     ab15681864244973925b59b722389827:
       image_group_id: I1KG4442
       title: Volume 1 of dbu ma'i dogs gcod rten 'byung snying po
       volume_number: 1
       total_pages: 422
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: དབུ་མའི་དོགས་གཅོད་རྟེན་འབྱུང་སྙིང་པོ་
   author: ''
